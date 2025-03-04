@@ -7,3 +7,6 @@ def login(username, password):
 def logout():
     return "Logged out successfully"
 
+#These are the changes that are being added
+#The changes are the comments.
+
